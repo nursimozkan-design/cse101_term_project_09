@@ -1,0 +1,23 @@
+[
+    {
+        "id": "34ABC001",
+        "make": "Volkswagen",
+        "model": "Golf",
+        "status": "rented",
+        "rate_per_day": 120.0
+    },
+    {
+        "id": "SUV001",
+        "make": "Land Rover",
+        "model": "Defender",
+        "status": "rented",
+        "rate_per_day": 250.0
+    },
+    {
+        "id": "EV001",
+        "make": "Tesla",
+        "model": "Model Y",
+        "status": "rented",
+        "rate_per_day": 200.0
+    }
+]
